@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GasConverter</string>
+    <string name="Label">КОНВЕРТЕР КПГ (л->м³)</string>
+    <string name="Search">Поиск ТС</string>
+    <string name="Number">Гос №</string>
+    <string name="Group">Группа</string>
+    <string name="Brand">Марка</string>
+    <string name="Label_card">Добавить/редактировать ТС</string>
+    <string name="Label_V">Объём баллонов в литрах</string>
+    <string name="textView_rg1_rb1_description">Данные из ТС</string>
+    <string name="textView_rg12_rb2_description">Введите данные</string>
+    <string name="Label_P">Давление в баллонах (диапазон измерений 10 – 200 кгс/см²)</string>
+    <string name="Label_T">Температура окружающей среды (диапазон измерений -30° - +40°)</string>
+</resources>

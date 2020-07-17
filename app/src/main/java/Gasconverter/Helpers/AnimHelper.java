@@ -1,6 +1,7 @@
 package Gasconverter.Helpers;
 
 import Gasconverter.MainActivity;
+import Gasconverter.R;
 import android.animation.*;
 import android.graphics.Color;
 import android.util.Log;
@@ -9,7 +10,6 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import androidx.cardview.widget.CardView;
-import com.example.gasconverter.R;
 
 import java.util.ArrayList;
 

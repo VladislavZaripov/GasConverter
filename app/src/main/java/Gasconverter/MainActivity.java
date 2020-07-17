@@ -24,7 +24,6 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import androidx.fragment.app.DialogFragment;
 import androidx.fragment.app.FragmentActivity;
-import com.example.gasconverter.R;
 
 import java.math.RoundingMode;
 import java.text.DecimalFormat;

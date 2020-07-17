@@ -9,7 +9,6 @@ import android.widget.EditText;
 import android.widget.ListView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import com.example.gasconverter.R;
 
 import java.util.ArrayList;
 import java.util.List;
